@@ -1,2 +1,2 @@
 # Time-Series-Project
-Frocasting Feature in a given duration
+Forecasting Feature in a given duration
